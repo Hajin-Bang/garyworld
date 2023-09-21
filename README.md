@@ -6,6 +6,14 @@
 ## git commit -m
 - 사용법 : git commit -m <메시지>
     "" 따옴표 안써도 됨!
+    ```
+    git commit -m "여러줄
+    dquote>
+    dquote> 첫번째줄
+    dquote> 두번째줄
+    dquote> 세번째줄
+    dquote> "
+    ```
 ## git status 
 - 내 git의 현재 상태를 확인한다. 
 ## git diff
